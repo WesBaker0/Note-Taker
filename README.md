@@ -1,7 +1,5 @@
 # Note Taker App
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-
 Note Taker is a web application that allows users to write, save, and delete notes. This application uses Express.js as a backend and saves and retrieves note data from a JSON file.
 
 ![Note Taker Screenshot](/path/to/screenshot.png) <!-- Change the path to the screenshot of your app -->
