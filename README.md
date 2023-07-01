@@ -20,7 +20,7 @@ To install the application, follow these steps:
 2. Navigate to the project directory in the terminal.
 3. Run `npm i` to initialize the app.
 4. Run `npm install express uuid` to install the necessary packages.
-5. Now you can run the application using the command `npm start` or `node server.js`.
+5. Now you can run the application using the script `npm start` or the command `node server.js`.
 6. Access the application in your web browser at `http://localhost:3000`.
    
 ## Features
