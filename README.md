@@ -7,7 +7,6 @@ Note Taker is a web application that allows users to write, save, and delete not
 ## Table of Contents
 
 - [Installation](#installation)
-- [Usage](#usage)
 - [Features](#features)
 - [API Endpoints](#api-endpoints)
 - [Contribute](#contributing)
@@ -19,16 +18,10 @@ To install the application, follow these steps:
 
 1. Clone the repository to your local machine.
 2. Navigate to the project directory in the terminal.
-3. Run `npm init -y` to initialize a new Node.js project.
-4. Run `npm install inquirer` to install the necessary package.
-5. Now you can run the application using the command `node index.js`.
-
-## Usage
-
-1. Navigate to the project directory in your terminal.
-2. Install the dependencies using the command `npm install`.
-3. Start the application by running `npm start`.
-4. Access the application in your web browser at `http://localhost:3000`.
+3. Run `npm i` to initialize the app.
+4. Run `npm install express uuid` to install the necessary packages.
+5. Now you can run the application using the command `npm start` or `node server.js`.
+6. Access the application in your web browser at `http://localhost:3000`.
    
 ## Features
 
